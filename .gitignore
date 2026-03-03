@@ -9,6 +9,8 @@
 *.tmp
 *.log
 *.cache
+*.precompilecache
+*.opt
 
 # Compiled libraries
 *.compiled-library
